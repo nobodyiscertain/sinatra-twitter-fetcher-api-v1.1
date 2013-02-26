@@ -11,7 +11,7 @@ This is good to push up to Heroku once you update you're credentials.
 
 ## Restrict Access
 =============================
-I would recommend restricting access to the app so your rate limits are compromised. For example: You can restrict access by IP address.
+I would recommend restricting access to the app so your rate limits aren't compromised. For example: You can restrict access by IP address.
 
 ```
 if request.ip == "123.456.678.99"
