@@ -14,11 +14,7 @@ class TwitterFetcher < Sinatra::Base
   )
 
   get '/' do
-    if request.ip == "127.0.0.1"
-      jsonp @@twitter_client.home_timeline.map(&:attrs)
-    else
-      status 401
-    end
+    jsonp @@twitter_client.home_timeline.map(&:attrs)
   end
 
 end
