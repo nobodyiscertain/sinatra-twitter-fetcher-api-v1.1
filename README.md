@@ -1,7 +1,7 @@
 # Sample Sinatra App for Twitter API v1.1 Calls
 =============================
 
-Read more about this here: [blog-post-URL](http://thisbythem.com/blog)
+Read more about this here: [Them Blogs](http://thisbythem.com/blog/simple-sinatra-for-twitter-api-pie-guy-fieri/)
 
 Twitter's new API got ya down? Requests coming back as 410? Gone gone gone.
 
