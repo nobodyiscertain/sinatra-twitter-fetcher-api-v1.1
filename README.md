@@ -1,5 +1,4 @@
 # Sample Sinatra App for Twitter API v1.1 Calls
-=============================
 
 Read more about this here: [Them Blogs](http://thisbythem.com/blog/simple-sinatra-for-twitter-api-pie-guy-fieri/)
 
@@ -10,7 +9,7 @@ Fork. Bundle. Update. Done.
 This is good to push up to Heroku once you update you're credentials.
 
 ## Restrict Access
-=============================
+
 I would recommend restricting access to the app so your rate limits aren't compromised. For example: Check the request referrer.
 
 ```
