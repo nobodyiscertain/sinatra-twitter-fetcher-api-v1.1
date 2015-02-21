@@ -1,5 +1,6 @@
 source 'http://rubygems.org'
-ruby '1.9.3'
+
+ruby File.read('.ruby-version').strip
 
 gem 'sinatra'
 gem 'sinatra-jsonp'
