@@ -5,8 +5,8 @@ GEM
       multipart-post (~> 1.1)
     multi_json (1.3.7)
     multipart-post (1.1.5)
-    rack (1.5.2)
-    rack-protection (1.3.2)
+    rack (1.6.13)
+    rack-protection (1.5.5)
       rack
     shotgun (0.9)
       rack (>= 1.0)
